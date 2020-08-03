@@ -1,5 +1,11 @@
 /* Container holding the image and the text */
-.container {
+
+.img{
+    opacity:0.4;
+
+
+}
+.container2 {
     position: relative;
     text-align: center;
     color: white;
@@ -36,7 +42,7 @@
 /* Centered text */
 .centered {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
